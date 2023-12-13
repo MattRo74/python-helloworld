@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: mattrohe/python-helloworld:v1.0.0
+          tags: mattrohe/python-helloworld:v1.1.0
